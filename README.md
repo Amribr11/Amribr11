@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Embedded Systems Projects**
 
-- 💬 Ask me about **Embedded Systems Automotive Technology C/C++, Python, and Arduino**
+- 💬 Ask me about **Embedded Systems Automotive Technology C/C++**
 
 - 📫 How to reach me **amr.ibr711@gmail.com**
 
